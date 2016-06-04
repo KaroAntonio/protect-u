@@ -15,6 +15,7 @@ $('#content').css({
 	'left': width/2-200,
 	'top': height/2-70,
 	'font-size':24+'px',
+	'cursor':'pointer'
 })
 
 //LOAD Text
