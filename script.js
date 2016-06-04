@@ -14,7 +14,7 @@ $('#content').css({
 	'position': 'absolute',
 	'left': width/2-200,
 	'top': height/2-70,
-
+	'font-size':24+'px',
 })
 
 //LOAD Text
